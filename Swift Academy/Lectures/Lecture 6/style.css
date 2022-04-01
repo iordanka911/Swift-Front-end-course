@@ -1,0 +1,27 @@
+body{
+    background-color: #344953;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color:white;
+}
+
+.personCardImage{
+    height: 60px;
+}
+
+.personCardWrapper{
+    background-color: red;
+    color:white;
+    width: 30%;
+    font-weight: bold;
+}
+.separator{
+    width: 20px;
+}
+
+.personCardWrapper span{
+    color:yellow;
+    font-weight: normal;
+}

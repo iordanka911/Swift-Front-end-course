@@ -1,0 +1,17 @@
+.rect{
+    height: 250px;
+    width: 250px;
+    background-color: blue;
+    position: fixed;
+    left: 150px;
+}
+
+.rect2{
+ height: 100px;
+ width: 100px;
+ background-color: bisque;
+ position: absolute;
+
+ bottom: 0px;
+ right:0
+}
