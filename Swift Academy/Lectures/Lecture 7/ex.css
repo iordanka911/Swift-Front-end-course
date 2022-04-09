@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 100px;
+    background-color: beige;
+}
+
+#mainHeader{
+    background-color: aqua;
+    padding: 0 20%;
+    width: 60%;
+    top: 0;
+}
+
+#mainHeaderLinks{
+    text-align: center;
+
+}
+
+div{
+    display: block;
+}
+
+#logo{
+    position: absolute;
+}
+
+main{
+    margin: -10px 20% 25 px 20%;
+    padding:25px 80px;
+       
+}
+
+.mainText{
+    display: inline-block;
+    overflow:auto;
+    width:1000px;
+    height: 1000px;
+    border: 2px solid rgb(208, 32, 32); 
+}
+
+#mainImage{
+    width: 400px;
+   
+}
+
+#mainSectionBlock:hover{
+    position: relative;
+    background-color: aquamarine;
+}
+
+:focus{
+    outline-color: brown;
+}
+
+li:not(:first-child){
+    background-color: aqua;
+}
+
+/*Comment*/
+
+
